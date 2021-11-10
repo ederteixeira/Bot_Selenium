@@ -1,16 +1,16 @@
-# Automação Selenium
+## Automação Selenium
 
 #### Automação
 
-Utilizando Selenium
+Utilizando Selenium.
 
 #### Descrição
 
-> Abrindo o Googe Chrome
+> Abrindo o Googe Chrome.
 
-> Inserção do e-mail
+> Inserção do e-mail.
 
-> Inserção da senha
+> Inserção da senha.
 
 #### Dependências
 
